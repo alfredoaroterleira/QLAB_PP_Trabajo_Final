@@ -4,13 +4,16 @@
 
 ## Diccionario de Datos
 
-| **Variable**           | **Descripción**                                                   | **Tipo**         | **Ejemplo**        |
-|-------------------------|-------------------------------------------------------------------|------------------|--------------------|
-| `Distrito`             | Nombre del distrito donde se encuentra la comisaría.             | Categórica (texto) | San Isidro         |
-| `Ubigeo`               | Código único de identificación geográfica asignado por el INEI.  | Numérica (entero) | 150101             |
-| `n_denuncia`           | Total de denuncias de tránsito registradas en la comisaría.      | Numérica (entero) | 123                |
-| `n_policias`           | Número de policías asignados a la comisaría.                    | Numérica (entero) | 15                 |
-| `total_equipos_infor`  | Cantidad de equipos informáticos disponibles en la comisaría.    | Numérica (entero) | 10                 |
+| **Variable**           | **Descripción**                                                   |
+|-------------------------|-------------------------------------------------------------------|
+| `Distrito`             | Nombre del distrito donde se encuentra la comisaría.             | 
+| `Ubigeo`               | Código único de identificación geográfica asignado por el INEI.  |  
+| `n_denuncia`           | Total de denuncias de tránsito registradas en la comisaría.      | 
+| `n_policias`           | Número de policías asignados a la comisaría.                    | 
+| `total_equipos_infor`  | Cantidad de equipos informáticos disponibles en la comisaría.    |
+
+## Resultados
+https://alfredoaroterleira.github.io/QLAB_PP_Trabajo_Final/
 
 ### Integrantes:
 - Alfredo Ludmir Aro Telería  
