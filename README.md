@@ -16,5 +16,5 @@
 https://alfredoaroterleira.github.io/QLAB_PP_Trabajo_Final/
 
 ### Integrantes:
-- Alfredo Ludmir Aro Telería  
+- Alfredo Ludmir Aro Terleira  
 - Romina Ariana Loayza Gaitán  
